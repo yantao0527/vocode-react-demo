@@ -1,4 +1,8 @@
 
+dep-vocode:
+	npm link vocode
+
+
 IMAGE_NAME=vocode-demo
 IMAGE_VERSION=0.0.3
 
